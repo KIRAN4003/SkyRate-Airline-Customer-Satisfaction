@@ -157,52 +157,6 @@ SkyRate/
 │
 └── 📄 README.md
 ```
-
-> ⚠️ **Dataset:** `airline_passenger_satisfaction.csv` is not committed.
-> Download from [Kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction) and place in project root.
-
----
-
-## 🚀 Run Locally
-
-```bash
-# Step 1 — Clone the repo
-git clone https://github.com/KIRAN4003/SkyRate.git
-cd SkyRate
-
-# Step 2 — Install dependencies
-pip install -r requirements.txt
-
-# Step 3 — Add dataset
-# Download airline_passenger_satisfaction.csv from Kaggle
-# Place it in the project root folder
-
-# Step 4 — Run the app
-streamlit run app.py
-```
-
-Open **http://localhost:8501** ✅
-
----
-
-## ☁️ Deploy on Streamlit Cloud
-
-1. Push code to GitHub
-2. Go to **[share.streamlit.io](https://share.streamlit.io)**
-3. Sign in with GitHub
-4. Click **"New app"** → Select repo → Main file: **`app.py`**
-5. Click **Deploy** ✅
-
----
-
-## 🖥️ Launch in GitHub Codespaces
-
-Click the green **"Code"** button on GitHub → **"Open in Codespaces"**
-
-The app launches automatically at port 8501 — no installation needed! ✅
-
----
-
 ## 🧠 What I Learned
 
 - Building **end-to-end ML pipelines** with no data leakage

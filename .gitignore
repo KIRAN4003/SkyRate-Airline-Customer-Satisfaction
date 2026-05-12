@@ -1,0 +1,79 @@
+# =============================================
+# SkyRate — Airline Satisfaction Capstone
+# .gitignore
+# =============================================
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+*.manifest
+*.spec
+
+# Environments
+.env
+.envrc
+venv/
+.venv/
+env/
+ENV/
+
+# Data — download separately, don't commit large files
+airline_passenger_satisfaction.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+*.egg
+MANIFEST
+
+# Testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+.spyderproject
+.ropeproject
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+pip-log.txt
+pip-delete-this-directory.txt
+*.log
+
+# Type checkers
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Misc
+.pypirc
+cython_debug/
+__pypackages__/

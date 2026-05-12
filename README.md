@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[Launch SkyRate App](https://kiran4003-skyrate.streamlit.app)**
+👉 **[Launch SkyRate App](https://skyrate-airline-customer-satisfaction-xedjrcsbryf7jes98tqqlb.streamlit.app/)**
 ---
 
 ## 📌 Project Overview
@@ -138,7 +138,7 @@ Passenger → SkyBot Chatbot (7 steps)
 ## 📁 Project Structure
 
 ```
-SkyRate/
+SkyRate-Airline-Customer-Satisfaction/
 │
 ├── 🐍 app.py                    ← Main entry point (tabs + CSS)
 ├── 🤖 model.py                  ← XGBoost Stage-1 pipeline
@@ -177,7 +177,7 @@ BCA Graduate | PGP in Data Science & Generative AI — Great Learning, Bangalore
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiran-u-471818325/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/KIRAN4003)
-[![App](https://img.shields.io/badge/Live%20App-SkyRate-FF4B4B?style=flat&logo=streamlit)](https://kiran4003-skyrate.streamlit.app)
+[![App](https://skyrate-airline-customer-satisfaction-xedjrcsbryf7jes98tqqlb.streamlit.app/)
 
 ---
 
